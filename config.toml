@@ -54,7 +54,7 @@ url = "contact"
 logo = "logo.gif"
 [params.search]
 enable = true
-
+author = "Aliens"
 
 
 [params.footer]
