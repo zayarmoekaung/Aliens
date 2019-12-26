@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "MyFirstSite"
+title = "My Aliens blog"
 theme = "parsa-hugo"
 
 # Plugins
