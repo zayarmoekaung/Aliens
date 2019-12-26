@@ -1,7 +1,7 @@
 ---
 title: "Hello from area51"
 date: 2019-12-26T07:34:13+06:30
-draft: true
+
 type: "post"
 image: "5d39bd30a209d34ad146f765.jpg"
 ---
