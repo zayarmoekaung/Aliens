@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-12-26T07:34:32+06:30
-draft: true
+type: "page"
 image: "astronomical-shows.jpg"
 ---
 Hello there 
