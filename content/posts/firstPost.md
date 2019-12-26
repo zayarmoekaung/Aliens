@@ -1,7 +1,7 @@
 ---
 title: "We Are Here"
 date: 2019-12-26T07:33:58+06:30
-draft: true
+
 type: "post"
 image: "191024-axe-alien-invasion-tease_apajz2.jpg"
 ---
